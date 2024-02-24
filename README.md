@@ -1,4 +1,5 @@
-# Русская версия
+Русская версия
+==============
 <br>
 <br>
 | Название проекта | Описание |
@@ -24,7 +25,8 @@
 <br>
 <br>
 
-# English version
+English version
+===============
 <br>
 <br>
 | Project Title | Description |
