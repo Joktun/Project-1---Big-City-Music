@@ -1,4 +1,4 @@
-| Русская версия |
+# Русская версия
 <br>
 <br>
 | Название проекта | Описание |
@@ -23,10 +23,10 @@
 <br>
 <br>
 <br>
-#English version
-<br>
-<br>
 
+# English version
+<br>
+<br>
 | Project Title | Description |
 | --- | --- |
 | [Big City Music](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Project-1---Big-City-Music) | Comparing Moscow and St. Petersburg is surrounded by myths: Moscow is a megacity, subject to a strict workweek rhythm; St. Petersburg is a city of unique culture, different from Moscow. Some myths reflect reality. Others are empty stereotypes. Business must distinguish between the first and the second to make rational decisions. On real Yandex Music data, you will check hypotheses and compare the behavior of users in the two capitals. |
