@@ -1,10 +1,6 @@
 | Название проекта | Описание | Используемые навыки | 
 | --- | --- | --- |
-| [Big City Music](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Project-1---Big-City-Music) | Сравнение Москвы и Петербурга окружено мифами:
-Москва — мегаполис, подчинённый жёсткому ритму рабочей недели;
-Петербург — город своеобразной культуры, непохожий на Москву.
-Некоторые мифы отражают действительность. Другие — пустые стереотипы. Бизнес должен отличать первые от вторых, чтобы принимать рациональные решения. На реальных данных Яндекс Музыки вы проверите гипотезы и сравните поведение пользователей двух столиц.
- | Python |
+| [Big City Music](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Project-1---Big-City-Music) | Сравнение Москвы и Петербурга окружено мифами: Москва — мегаполис, подчинённый жёсткому ритму рабочей недели; Петербург — город своеобразной культуры, непохожий на Москву. Некоторые мифы отражают действительность. Другие — пустые стереотипы. Бизнес должен отличать первые от вторых, чтобы принимать рациональные решения. На реальных данных Яндекс Музыки вы проверите гипотезы и сравните поведение пользователей двух столиц. | Python |
 | [Data Preprocessing. Chapter 1](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Project-2---Data-Preprocessing.-Chapter-1) | Show file differences that haven't been staged | Python |
 | [Data Preprocessing. Chapter 2](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Project-3---Data-Preprocessing.-Chapter-2) | List all new or modified files | Python |
 | [Exploratory Data Analysis](https://github.com/Joktun/Yandex.Practicum---Data-Science/tree/Project-4---Exploratory-Data-Analysis) | Show file differences that haven't been staged | Python |
