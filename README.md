@@ -2,7 +2,7 @@
 Описание проекта <br>
 В вашем распоряжении данные сервиса Яндекс Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Вам нужно научиться определять рыночную стоимость объектов недвижимости. Для этого проведите исследовательский анализ данных и установите параметры, влияющие на цену объектов. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. По каждой квартире на продажу доступны два вида данных. Первые вписаны пользователем, вторые — получены автоматически на основе картографических данных. Например, расстояние до центра, аэропорта и других объектов — эти данные автоматически получены из геосервисов. Количество парков и водоёмов также заполняется без участия пользователя. <br>
 
-Описание колонок <br>
+Описание данных <br>
 airports_nearest — расстояние до ближайшего аэропорта в метрах (м) <br>
 balcony — число балконов <br>
 ceiling_height — высота потолков (м) <br>
@@ -36,7 +36,7 @@ You have access to Yndx Real Estate service data - an archive of real estate adv
 For each apartment for sale, two types of data are available. The first is entered by the user, the second is obtained automatically based on geographic data. For example, the distance to the center, airport, and other objects - these data are automatically received from geoservices. The number of parks and water bodies is also filled out without the involvement of the user.
  <br>
 
-Column descriptions <br>
+Data descriptions <br>
 airports_nearest - distance to the nearest airport in meters (m) <br>
 balcony - number of balconies <br>
 ceiling_height - ceiling height in meters (m) <br>
