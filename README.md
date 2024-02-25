@@ -2,7 +2,7 @@
 Описание проекта <br>
 Вы аналитик популярного сервиса аренды самокатов GoFast. Вам передали данные о некоторых пользователях из нескольких городов, а также об их поездках. Проанализируйте данные и проверьте некоторые гипотезы, которые могут помочь бизнесу вырасти. Чтобы совершать поездки по городу, пользователи сервиса GoFast пользуются мобильным приложением. <br>
 
-Описание колонок <br>
+Описание данных <br>
 Пользователи — users_go.csv <br>
 user_id	уникальный идентификатор пользователя <br>
 name	имя пользователя <br>
@@ -31,7 +31,7 @@ English <br>
 Description of the project <br>
 You are an analyst of the popular self-bicycle rental service GoFast. You were given data about some users from several cities, as well as about their trips. Analyze the data and check some hypotheses that may help the business grow. In order to travel around the city, GoFast service users use a mobile application. <br>
 
-Column descriptions <br>
+Data descriptions <br>
 Users - users_go.csv <br>
 user_id - unique user identifier <br>
 name - user name <br>
