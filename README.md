@@ -2,7 +2,7 @@
 Описание проекта <br>
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину. Шаги для выбора локации обычно такие: В избранном регионе собирают характеристики для скважин: качество нефти и объём её запасов; Строят модель для предсказания объёма запасов в новых скважинах; Выбирают скважины с самыми высокими оценками значений; Определяют регион с максимальной суммарной прибылью отобранных скважин. Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap. <br>
 
-Описание колонок <br>
+Описание данных <br>
 id — уникальный идентификатор скважины; <br>
 f0, f1, f2 — три признака точек (неважно, что они означают, но сами признаки значимы); <br>
 product — объём запасов в скважине (тыс. баррелей). <br>
@@ -29,7 +29,7 @@ Select wells with the highest value estimates;
 Determine the region with the maximum total profit from the selected wells.
 You are provided with oil samples in three regions. The characteristics for each well in the region are already known. Build a model to determine the region where extraction will bring the greatest profit. Analyze the possible profit and risks using the Bootstrap technique. <br>
 
-Column descriptions <br>
+Data descriptions <br>
 id — unique well identifier; <br>
 f0, f1, f2 — three significant features of points (irrelevant what they mean, but the features themselves are significant); <br>
 product — volume of reserves in the well (thousands of barrels). <br>
