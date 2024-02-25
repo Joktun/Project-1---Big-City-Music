@@ -2,7 +2,7 @@
 Описание проекта <br>
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. <br>
 
-Описание колонок <br>
+Описание данных <br>
 children — количество детей в семье <br>
 days_employed — общий трудовой стаж в днях <br>
 dob_years — возраст клиента в годах <br>
@@ -25,7 +25,7 @@ Description of the project <br>
 Client - bank's credit department. It is necessary to understand if the client's marital status and the number of children affect the fact of repaying the loan on time. Input data from the bank - customer payment capability statistics.
 The results of the research will be taken into account in building the credit scoring model - a special system that evaluates the ability of a potential borrower to return the loan to the bank. <br>
 
-Column descriptions <br>
+Data descriptions <br>
 children - number of children in the family <br>
 days_employed - total employment duration in days <br>
 dob_years - client's age in years <br>
